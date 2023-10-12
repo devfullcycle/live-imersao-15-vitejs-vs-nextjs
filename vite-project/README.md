@@ -1,0 +1,10 @@
+- Tamanho do javascript carregado
+- Chamadas http
+- Carregamento das imagens
+- Ser single page application (SEO)
+- Métricas de performance
+   -  First Paint - Primeira pintura de pixel na tela
+   -  First Contentful Paint - Primeiro conteúdo pintado na tela
+   -  First Meaningful Paint - Primeiro conteúdo significativo pintado na tela
+   -  Time to Interactive - Tempo para interação
+- É possível rodar sem JavaScript?
